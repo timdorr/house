@@ -3,3 +3,9 @@
 </p>
 
 ---
+
+## Learning
+
+How on earth do I do this??
+
+- [Videos](/learning/Videos.md)
