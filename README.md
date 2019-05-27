@@ -4,6 +4,10 @@
 
 ---
 
+## What is this?
+
+One of my lifetime goals is to build a house from scratch by myself as much as I physically can. This is a multi-decade process for me, but I'm documenting everything I've learned, discovered, and researched so far. 
+
 ## Learning
 
 How on earth do I do this??
