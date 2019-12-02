@@ -6,4 +6,6 @@
 
 ## Framing
 
+- [Framing Floors and Stairs with Larry Haun](https://www.youtube.com/watch?v=yh6cMQnWGwA)
 - [Framing Walls with Larry Haun](https://www.youtube.com/watch?v=IQmt27qN6AI)
+- [Framing a Roof with Larry Haun](https://www.youtube.com/watch?v=0Y6n6kf7vdY)
